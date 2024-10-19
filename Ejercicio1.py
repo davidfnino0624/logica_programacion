@@ -16,4 +16,4 @@ my_float = 1.75
 my_bool = True
 my_string = "Hola mundo"
 
-print("Hola Phyton")
+print("Hola Phyton", my_string, my_int)
